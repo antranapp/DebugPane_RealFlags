@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/antranapp/DebugPane", .branch("master")),
-        .package(url: "https://github.com/antranapp/RealFlags", .branch("main")),
+        .package(url: "https://github.com/immobiliare/RealFlags", .exact("1.3.1")),
     ],
     targets: [
         .target(
