@@ -1,3 +1,3 @@
-# DebugPane+ShowTime
+# DebugPane+RealFlags
 
-[ShowTime](https://github.com/KaneCheshire/ShowTime) plugin for [DebugPane](https://github.com/antranapp/DebugPane)
+[RealFlags](https://github.com/immobiliare/RealFlags) plugin for [DebugPane](https://github.com/antranapp/DebugPane)
